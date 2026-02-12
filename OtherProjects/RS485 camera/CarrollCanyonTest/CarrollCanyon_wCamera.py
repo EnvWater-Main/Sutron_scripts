@@ -1,4 +1,4 @@
-from sl3 import *
+ng onfrom sl3 import *
 import utime
 import math
 from serial import Serial
